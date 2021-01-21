@@ -13,3 +13,5 @@ In this project, you will build a Github repository from scratch and create a sc
 ***Trello Board***
 
 ## Preparation
+
+Create ssh key in Azure and upload it to Github
