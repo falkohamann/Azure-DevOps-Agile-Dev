@@ -7,5 +7,6 @@ In this project, you will build a Github repository from scratch and create a sc
 ## Planning
 
 ***Project Plan***
+See the included Project Management .xlsx file
 
 ***Trello Board***
