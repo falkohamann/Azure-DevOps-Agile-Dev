@@ -6,6 +6,6 @@ In this project, you will build a Github repository from scratch and create a sc
 
 ## Planning
 
-    ### Project Plan
+    ***Project Plan***
 
-    ### Trello Board
+    ***Trello Board***
