@@ -12,6 +12,8 @@ In this project, you will build a Github repository from scratch and create a sc
 
 ***Trello Board***
 
+https://trello.com/b/2TNsQiFm/build-a-ci-cd-pipeline-devops
+
 ## Preparation
 
 ### SSH-Key
