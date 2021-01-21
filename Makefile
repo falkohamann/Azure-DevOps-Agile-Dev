@@ -3,7 +3,7 @@ install:
 		pip3 install -r requirements.txt
 
 test:
-	python -m pytest -vv test_hello.py
+	python3 -m pytest -vv test_hello.py
 
 
 lint:
