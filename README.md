@@ -20,7 +20,7 @@ Create ssh key in Azure and upload it to Github
 
 ### Scaffolding
 
-    ***Create a Makefile with this commands:***
+***Create a Makefile with this commands:***
 
     install:
         pip install --upgrade pip &&\
