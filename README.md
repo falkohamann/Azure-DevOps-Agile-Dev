@@ -14,4 +14,22 @@ In this project, you will build a Github repository from scratch and create a sc
 
 ## Preparation
 
+### SSH-Key
+
 Create ssh key in Azure and upload it to Github
+
+### Scaffolding
+
+    Create a Makefile with this commands:
+
+    install:
+        pip install --upgrade pip &&\
+            pip install -r requirements.txt
+
+    test:
+        python -m pytest -vv test_hello.py
+
+    lint:
+        pylint --disable=R,C hello.py
+
+    all: install lint test
